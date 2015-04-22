@@ -1,0 +1,23 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twistedogic/presentation"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twistedogic/presentation/issues"
+  },
+  "homepage": "https://github.com/twistedogic/presentation",
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "yql": "^1.0.2"
+  }
+}
